@@ -1,3 +1,10 @@
+# Important Note
+
+Some time after Ryguy archived the original NSMBWer+ repo they gave me access to it, telling me to (and I quote) "do whatever you want with it":
+with that being said, I'm now reuploading the original repo for archival purposes and to offer the community that neat middle ground between Vanilla NSMBW and Newer.
+Should NSMBWer+ become obsolete, this repository will exist as an archive and will remain public.
+Below is the original README.md:
+
 # NSMBWer+
 ### Introduction
 
