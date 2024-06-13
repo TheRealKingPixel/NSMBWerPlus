@@ -6,7 +6,9 @@ Should NSMBWer+ become obsolete, this repository will exist as an archive and wi
 
 ### Important update as of June 13th 2024:
 There's now a "new" official repo of NSMBWer+., and it can be found here:
+
 https://github.com/Developers-Collective/NSMBWerPlus
+
 As mentioned in the important note, this repo will stay up for archival purposes.
 
 Below is the original README.md:
