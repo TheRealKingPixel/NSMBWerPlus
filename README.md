@@ -3,6 +3,14 @@
 Some time after Ryguy archived the original NSMBWer+ repo they gave me access to it, telling me to (and I quote) "do whatever you want with it":
 with that being said, I'm now reuploading the original repo for archival purposes and to offer the community that neat middle ground between Vanilla NSMBW and Newer.
 Should NSMBWer+ become obsolete, this repository will exist as an archive and will remain public.
+
+### Important update as of June 13th 2024:
+There's now a "new" official repo of NSMBWer+., and it can be found here:
+
+https://github.com/Developers-Collective/NSMBWerPlus
+
+As mentioned in the important note, this repo will stay up for archival purposes.
+
 Below is the original README.md:
 
 # NSMBWer+
